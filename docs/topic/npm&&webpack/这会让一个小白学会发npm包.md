@@ -358,7 +358,7 @@ npm publish // 发布你的包（如果你出现👇，显示 +[package]@版本�
 
 ![npm](../../assets/imgs/topics/npm&&webpack/npm.png)
 
-![npm publish](../../assets/imgs/topics/npm&&webpack/npm publish.png)
+![npm publish](../../assets/imgs/topics/npm&&webpack/npmPublish.png)
 
 
 
